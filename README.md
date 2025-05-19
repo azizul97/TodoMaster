@@ -21,9 +21,6 @@ A modern, interactive todo list web application with persistent local storage an
 - **Icons**: Font Awesome
 - **Storage**: Browser Local Storage
 
-## Installation & Usage 🚀
 
-### Quick Start
-1. Clone the repository:
-```bash
+
 
